@@ -1,0 +1,1 @@
+Contador em javascript puro para mostrar quantos dias, horas, minutos e segundos faltam para o próximo ano. 
